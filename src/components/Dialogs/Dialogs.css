@@ -1,0 +1,15 @@
+.Messg {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  grid-area: c;
+  background-color: mediumseagreen;
+}
+.Messg__item {
+  padding: 10px;
+}
+.Chat {
+  padding: 10px;
+}
+.Chat__item {
+  margin-bottom: 20px;
+}

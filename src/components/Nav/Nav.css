@@ -1,0 +1,10 @@
+.nav {
+  grid-area: n;
+  background-color: limegreen;
+  padding: 20px;
+  font-size: 19px;
+}
+.item {
+  color: white;
+  text-decoration: none;
+}
